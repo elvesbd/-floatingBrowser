@@ -2,9 +2,9 @@
   "name": "navegador",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron app.js"
   },
   "keywords": [],
   "author": "",
