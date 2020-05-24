@@ -13,7 +13,7 @@ Este projeto é criação de um navegador flutuante que fica fixo na tela mesmo 
 
 ## Tecnologias
 - HTML
-- ELECTRON (https://www.electron.org)
+- ELECTRON (https://www.electronjs.org)
 
 ---
 
